@@ -1,4 +1,4 @@
 # Lego Design
 
 
-legos are awesome 
+legos are *awesome* 
