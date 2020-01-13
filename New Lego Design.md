@@ -1,6 +1,8 @@
 # Lego Design
 ## **Step One:**
+
 Take large grey square and place tail on back.
+
 ![picture1](https://github.com/RaymondRau/e235/blob/master/lego%20project.png)
 ## **Step Two:**
 Take on large wing and place it on one side of the body facing forward.
