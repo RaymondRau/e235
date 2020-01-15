@@ -3,7 +3,7 @@
 
 ## **Step One:**
 
-Take large grey square and place tail on back.
+Take large grey square and place tail on back using one row to connect.
 
 ![picture1](https://github.com/RaymondRau/e235/blob/master/lego%20project.png)
 ## **Step Two:**
