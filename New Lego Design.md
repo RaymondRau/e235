@@ -1,4 +1,6 @@
-# Lego Design
+# Lego Aircraft
+## By Raymond R.
+
 ## **Step One:**
 
 Take large grey square and place tail on back.
